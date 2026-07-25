@@ -160,7 +160,6 @@ auditlens/
   <a href="https://www.linkedin.com/in/shreeya-mhatre-438624406/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bol%2FOQNUQ6W8hPsCD2e%2Fcw%3D%3D"><img src="https://img.shields.io/badge/Shreeya-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
-> Replace the `#` hrefs above with each teammate's actual LinkedIn URL.
 
 ---
 
