@@ -163,11 +163,11 @@ auditlens/
 
 ---
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 This is an educational hackathon project. Issues and suggestions are welcome — open a GitHub Issue or reach out to any team member.
 
-## 📄 License
+### 📄 License
 
 Built for **Cognithon 2026**. Synthetic data only. Created for educational purposes.
 
